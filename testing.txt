@@ -1,0 +1,46 @@
+Pokemon Go
+
+I. User can sign on successfully
+  1. Log in screen is displayed
+    As I user, I know when the intro is over and the log in page is ready
+  2. Log in screen allows user to select a google ID
+    As I user, I can select my google ID and enter a password
+  3. Log in page rejects incorrect passwords
+    As I user, I am denied entry into an account if I enter the wrong password and
+    prompted for a new password
+  4. Log in page allows user to retrieve lost log in details
+    As a user, I am given an opportunity to get my username/password if I have forgotten it
+  5. Log in page notifies user of successful log in
+    As a user, I know when my log in was successful
+  6. Log in page shows link to trainer club
+    As a user, I can sign up for trainer club from the login page
+
+II. User can catch pokemon
+  1. User is able to enter pokemon encounters
+    As a user, when I encounter a pokemon, I am given the opportunity to catch it
+  2. User is able to throw pokeballs
+    As a user, The pokeball interface allows me to throw a pokeball at the pokemon
+  3. User is able to select pokeball type
+    As a user, I can switch between regular pokeballs, great balls and ultraballs
+  4. User is rewarded for curveballs
+    As a user, if I throw a ball in a sideways arc and catch a pokemon, I am given a 10exp bonus
+  5. User is rewarded for Nice, Great, and Excellent throws
+    As a user, if I throw a ball into an appopriately sized circle, I am given a bonus for
+    nice, great and excellent throws
+  6. User is able to flee an encounter
+    As a user, I am able to exit an encounter with a pokemon I do not wish to catch
+
+  III. User can battle pokemon
+    1. User is able to enter a pokemon gym
+      As a user, when I press on a pokemon gym, I am able to enter it
+    2. User gets into the appropriate gym battle type
+      As a user, when I enter a team of the same color, I am defending and when I enter
+      a gym of a different color, I am attacking
+    3. User is able to select pokemon to use in battle
+      As a user, I am able to choose which pokemon I want to enter in the pokemon battle
+    4. User is able to use a regular attack
+      As a user, when I tap the screen, I use a regular attack
+    5. User is able to use a special attack
+      As a user, when I longpress the screen, I can use a special attack
+    6. User is able to flee a pokemon battle
+      As a user, I can leave a pokemon battle that I no longer wish to participate in
